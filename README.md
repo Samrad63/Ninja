@@ -23,3 +23,21 @@
 ## 📂 Project Structure / ساختار پروژه  
 
 
+
+Ninja/
+├── Assets/ # دارایی‌های بازی (اسپرایت‌ها، افکت‌ها) — game assets
+├── ProjectSettings/ # تنظیمات پروژه یونیتی — Unity project settings
+├── .gitignore
+└── README.md
+
+
+---  
+
+## ▶️ How to Run / نحوه اجرا  
+1. پروژه را با Unity باز کن — Open the project with Unity.  
+2. صحنه اصلی را اجرا کن — Run the main scene.  
+3. در صورت نیاز: تنظیمات پلتفرم (PC / Mobile) را تغییر بده — Adjust platform settings if needed.  
+
+---  
+
+ 
